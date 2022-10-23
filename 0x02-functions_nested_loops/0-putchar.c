@@ -1,9 +1,11 @@
 #include "main.h"
+
 /**
- * main - print _putchar
+ * main - prints _putchar
  *
  * Return: Always 0
 */
+
 int main(void)
 {
 _putchar('_');
